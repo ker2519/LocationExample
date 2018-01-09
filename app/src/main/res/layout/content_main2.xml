@@ -42,6 +42,14 @@
             android:text="Button"
             tools:layout_editor_absoluteX="85dp"
             tools:layout_editor_absoluteY="271dp" />
+
+        <Button
+            android:id="@+id/btn_alarm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="btn_alarm"
+            tools:layout_editor_absoluteX="85dp"
+            tools:layout_editor_absoluteY="271dp" />
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>
